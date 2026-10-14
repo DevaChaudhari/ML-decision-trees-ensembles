@@ -1,6 +1,3 @@
-# Large dataset, not redistributed
-data/GenomicData.csv
-
 # Python / Jupyter
 __pycache__/
 *.pyc
